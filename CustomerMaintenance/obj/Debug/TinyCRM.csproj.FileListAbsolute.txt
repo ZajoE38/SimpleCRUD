@@ -1,0 +1,11 @@
+C:\Computer Science\Training\Murach Joel\C# 2015\Exercise starts\Chapter 22 XML\CustomerXML\CustomerMaintenance\bin\Debug\TinyCRM.exe.config
+C:\Computer Science\Training\Murach Joel\C# 2015\Exercise starts\Chapter 22 XML\CustomerXML\CustomerMaintenance\bin\Debug\TinyCRM.exe
+C:\Computer Science\Training\Murach Joel\C# 2015\Exercise starts\Chapter 22 XML\CustomerXML\CustomerMaintenance\bin\Debug\TinyCRM.pdb
+C:\Computer Science\Training\Murach Joel\C# 2015\Exercise starts\Chapter 22 XML\CustomerXML\CustomerMaintenance\obj\Debug\TinyCRM.csprojAssemblyReference.cache
+C:\Computer Science\Training\Murach Joel\C# 2015\Exercise starts\Chapter 22 XML\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Computer Science\Training\Murach Joel\C# 2015\Exercise starts\Chapter 22 XML\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Computer Science\Training\Murach Joel\C# 2015\Exercise starts\Chapter 22 XML\CustomerXML\CustomerMaintenance\obj\Debug\TinyCRM.Properties.Resources.resources
+C:\Computer Science\Training\Murach Joel\C# 2015\Exercise starts\Chapter 22 XML\CustomerXML\CustomerMaintenance\obj\Debug\TinyCRM.csproj.GenerateResource.cache
+C:\Computer Science\Training\Murach Joel\C# 2015\Exercise starts\Chapter 22 XML\CustomerXML\CustomerMaintenance\obj\Debug\TinyCRM.csproj.CoreCompileInputs.cache
+C:\Computer Science\Training\Murach Joel\C# 2015\Exercise starts\Chapter 22 XML\CustomerXML\CustomerMaintenance\obj\Debug\TinyCRM.exe
+C:\Computer Science\Training\Murach Joel\C# 2015\Exercise starts\Chapter 22 XML\CustomerXML\CustomerMaintenance\obj\Debug\TinyCRM.pdb

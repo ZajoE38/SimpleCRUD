@@ -1,0 +1,11 @@
+C:\Computer Science\Projects\Customer\CustomerMaintenance\bin\Debug\TinyCRM.exe.config
+C:\Computer Science\Projects\Customer\CustomerMaintenance\bin\Debug\TinyCRM.exe
+C:\Computer Science\Projects\Customer\CustomerMaintenance\bin\Debug\TinyCRM.pdb
+C:\Computer Science\Projects\Customer\CustomerMaintenance\obj\Debug\Customer.csprojAssemblyReference.cache
+C:\Computer Science\Projects\Customer\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Computer Science\Projects\Customer\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Computer Science\Projects\Customer\CustomerMaintenance\obj\Debug\TinyCRM.Properties.Resources.resources
+C:\Computer Science\Projects\Customer\CustomerMaintenance\obj\Debug\Customer.csproj.GenerateResource.cache
+C:\Computer Science\Projects\Customer\CustomerMaintenance\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Computer Science\Projects\Customer\CustomerMaintenance\obj\Debug\TinyCRM.exe
+C:\Computer Science\Projects\Customer\CustomerMaintenance\obj\Debug\TinyCRM.pdb
